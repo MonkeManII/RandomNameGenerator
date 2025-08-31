@@ -1,0 +1,39 @@
+body {
+    background-color: black;
+}
+
+/* The page header */
+#nHeader {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+/* The "press space" prompt */
+#genPrompt {
+    color: #0e0e0e;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+/* The made-by credits */
+#credit {
+    color: darkgray;
+    font-family: sans-serif;
+    font-size: 10px;
+}
+
+/* The space that usernames are in */
+div#usernames {
+    background-color: #252525;
+    border: #252525 solid 6px;
+    max-width: 99%;
+}
+
+/* A generated username */
+.name {
+    color: rgb(223, 223, 223);
+    font-family: sans-serif;
+    font-size: 12px;
+    line-height: 30%;
+}
